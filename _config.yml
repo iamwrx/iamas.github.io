@@ -12,7 +12,7 @@ github_repo: "https://github.com/iamwrx/iamwrx.github.io"   # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Inward cognition to walk outward!"
-sidebar-avatar: /img/about_RX_gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/about_RX_gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
