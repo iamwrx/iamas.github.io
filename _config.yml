@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: ruixin.wang@ele.me
 description: "Every failure is leading towards success."
 keyword: "AS, AS Blog, 安石的博客, wanganshi, 王安石, payment, 支付, transaction, 交易, product manager, 产品经理"
-url: "http://iamwrx.github.io"          # your host, for absolute URL
+url: "http://iamas.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iamwrx/iamwrx.github.io"   # you code repository
 
@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 38a09da2c63d13f08830                            #生成的clientID
   clientSecret: cf21485b2e62be182302392af0cb32585e778965    #生成的clientSecret
-  repo: iamwrx.github.io    #仓库名称
+  repo: iamas.github.io    #仓库名称
   owner: iamwrx    #github用户名
   admin: iamwrx
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
