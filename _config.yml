@@ -1,10 +1,10 @@
 # Site settings
-title: RX Blog
-SEOTitle: RX的博客 | RX Blog
+title: AS Blog
+SEOTitle: AS的博客 | AS Blog
 header-img: img/post-bg-desk.jpg
 email: ruixin.wang@ele.me
 description: "Every failure is leading towards success."
-keyword: "RX, RX Blog, 瑞新的博客, wangruixin, 王瑞新, payment, 支付, transaction, 交易, product manager, 产品经理"
+keyword: "AS, AS Blog, 安石的博客, wanganshi, 王安石, payment, 支付, transaction, 交易, product manager, 产品经理"
 url: "http://iamwrx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iamwrx/iamwrx.github.io"   # you code repository
